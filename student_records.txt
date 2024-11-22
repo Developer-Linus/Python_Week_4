@@ -1,0 +1,6 @@
+Student ID, Name, Age, Grade, Email
+1001, Alice Johnson, 20, A, alice.johnson@university.com
+1002, Bob Smith, 22, B, bob.smith@university.com
+1003, Carol Lee, 19, A+, carol.lee@university.com
+1004, David Brown, 21, C, david.brown@university.com
+1005, Eve Davis, 20, B+, eve.davis@university.com
